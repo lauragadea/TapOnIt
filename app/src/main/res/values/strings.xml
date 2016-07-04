@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TapOnIt</string>
+    <color name="light_blue">#3f51b5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
